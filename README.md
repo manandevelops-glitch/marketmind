@@ -8,6 +8,9 @@ MarketMind is an AI-powered stock market research orchestrator built using the G
 - **Security Guardrails**: Built-in prompt injection and safety filtering using the ADK hooks system.
 - **Web Interface**: Clean, dark-themed interactive Streamlit chat UI.
 
+Demo video: https://youtu.be/Fa0bBHlfM1g
+
+
 ## Getting Started
 
 ### 1. Prerequisites
@@ -28,7 +31,7 @@ Create a `.env` file in the root directory and add your Gemini API key:
 ```bash
 GEMINI_API_KEY=your_api_key_here
 ```
-
+(adk run markemind)
 ### 4. Run the Web App
 Start the Streamlit application:
 ```bash
