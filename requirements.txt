@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+google-genai
+google-antigravity
+python-dotenv
+streamlit
+pytest
+pytest-asyncio
